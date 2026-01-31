@@ -2,6 +2,8 @@
 
 👉 **[Interactive Dashboard](https://danielesasso.github.io/hotel-review-dashboard/)**
 
+![Dashboard Screen](Screen.png)
+
 ---
 
 ⚠️ **Important note on the dataset**  
